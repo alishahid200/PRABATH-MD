@@ -1,13 +1,13 @@
 {
-  "name": "PRABATH-MD (2.0.6)",
-  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "name": "Gulsher-MD (2.0.6)",
+  "description": "Gulsher-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
   "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
   "keywords": ["prabath", "bot", "whatsapp bot", "multi device", "prabath-md"],
   "success_url": "/",
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "923320756957",
       "required": true
     },  
 
@@ -17,16 +17,16 @@
     },
 
     "SESSION_ID": {
-      "description": "Enter session-id here",
-      "required": false
+      "description": "PRABATH-MD~Fztw2bpR#5Ub3Qy6AN72A0wDsS_W7IRNZ5bHbS8PiBzNBDXmgq6c",
+      "required": true
     },
     
     "GITHUB_USERNAME": {
-      "description": "Put your github username here.",
+      "description": "alishahid200",
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github auth-token here.",
+      "description": "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",
       "required": true
     }   
 },
